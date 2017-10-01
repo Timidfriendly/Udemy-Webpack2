@@ -4,16 +4,19 @@
   "description": "Udemy webpack2 course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
-    "url": "yes"
+    "url": "https://github.com/Timidfriendly/Udemy-Webpack2.git"
   },
   "keywords": [
     "webpack",
     "udemy"
   ],
   "author": "David Knowles",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "2.2.0-rc.0"
+  }
 }
