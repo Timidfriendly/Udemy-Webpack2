@@ -1,0 +1,19 @@
+{
+  "name": "js_modules",
+  "version": "1.0.0",
+  "description": "Udemy webpack2 course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "webpack",
+    "udemy"
+  ],
+  "author": "David Knowles",
+  "license": "ISC"
+}
